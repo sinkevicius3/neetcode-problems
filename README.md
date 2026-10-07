@@ -13,5 +13,6 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
+- [x] Group Anagrams 
 
-**3 / 150 problems solved**
+**4 / 150 problems solved**
