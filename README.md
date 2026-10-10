@@ -14,6 +14,7 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 - [x] Valid Anagram
 - [x] Two Sum
 - [x] Group Anagrams
-- [x] Top K Frequent Elements 
+- [x] Top K Frequent Elements
+- [x] Encode and Decode Strings 
 
-**5 / 150 problems solved**
+**6 / 150 problems solved**
