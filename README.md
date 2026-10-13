@@ -16,6 +16,7 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
 - [x] Encode and Decode Strings
-- [x] Products of Array Except Self 
+- [x] Products of Array Except Self
+- [x] Valid Sudoku 
 
-**7 / 150 problems solved**
+**8 / 150 problems solved**
