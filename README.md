@@ -15,6 +15,7 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 - [x] Two Sum
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
-- [x] Encode and Decode Strings 
+- [x] Encode and Decode Strings
+- [x] Products of Array Except Self 
 
-**6 / 150 problems solved**
+**7 / 150 problems solved**
