@@ -17,6 +17,7 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 - [x] Top K Frequent Elements
 - [x] Encode and Decode Strings
 - [x] Products of Array Except Self
-- [x] Valid Sudoku 
+- [x] Valid Sudoku
+- [x] Longest Consecutive Sequence 
 
-**8 / 150 problems solved**
+**9 / 150 problems solved**
