@@ -8,16 +8,16 @@ Motivation - deepen coding, DSA, thinking and CS fundamentals skills as well as 
 
 Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 
-### Arrays & Hashing
+### Arrays & Hashing |9/9 :white_check_mark:|
 
-- [x] Contains Duplicate
-- [x] Valid Anagram
-- [x] Two Sum
-- [x] Group Anagrams
-- [x] Top K Frequent Elements
-- [x] Encode and Decode Strings
-- [x] Products of Array Except Self
-- [x] Valid Sudoku
-- [x] Longest Consecutive Sequence 
+1. :white_check_mark: Contains Duplicate
+2. :white_check_mark: Valid Anagram
+3. :white_check_mark: Two Sum
+4. :white_check_mark: Group Anagrams
+5. :white_check_mark: Top K Frequent Elements
+6. :white_check_mark: Encode and Decode Strings
+7. :white_check_mark: Products of Array Except Self
+8. :white_check_mark: Valid Sudoku
+9. :white_check_mark: Longest Consecutive Sequence
 
-**9 / 150 problems solved**
+**Total: 9 / 150 problems solved**
