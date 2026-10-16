@@ -20,8 +20,9 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 8. :white_check_mark: Valid Sudoku
 9. :white_check_mark: Longest Consecutive Sequence
 
-### Two Pointers |1/5 :white_check_mark:|
+### Two Pointers |2/5 :white_check_mark:|
 
 1. :white_check_mark: Valid Palindrome
+2. :white_check_mark: Two Integer Sum II
 
-**Total: 10 / 150 problems solved**
+**Total: 11 / 150 problems solved**
