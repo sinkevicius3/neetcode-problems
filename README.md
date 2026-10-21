@@ -20,11 +20,12 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 8. :white_check_mark: Valid Sudoku
 9. :white_check_mark: Longest Consecutive Sequence
 
-### Two Pointers |4/5 :white_check_mark:|
+### Two Pointers |5/5 :white_check_mark:|
 
 1. :white_check_mark: Valid Palindrome
 2. :white_check_mark: Two Integer Sum II
 3. :white_check_mark: 3Sum
 4. :white_check_mark: Container With Most Water
+5. :white_check_mark: Trapping Rain Water
 
-**Total: 13 / 150 problems solved**
+**Total: 14 / 150 problems solved**
