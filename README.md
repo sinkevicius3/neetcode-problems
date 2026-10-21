@@ -28,4 +28,9 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 4. :white_check_mark: Container With Most Water
 5. :white_check_mark: Trapping Rain Water
 
-**Total: 14 / 150 problems solved**
+### Stack |1/6 :white_check_mark:|
+
+1. :white_check_mark: Valid Parentheses
+
+
+**Total: 15 / 150 problems solved**
