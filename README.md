@@ -28,9 +28,10 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 4. :white_check_mark: Container With Most Water
 5. :white_check_mark: Trapping Rain Water
 
-### Stack |2/6 :white_check_mark:|
+### Stack |3/6 :white_check_mark:|
 
 1. :white_check_mark: Valid Parentheses
 2. :white_check_mark: Min Stack
+2. :white_check_mark: Evaluate Reverse Polish Notation
 
-**Total: 16 / 150 problems solved**
+**Total: 17 / 150 problems solved**
