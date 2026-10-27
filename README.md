@@ -28,11 +28,12 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 4. :white_check_mark: Container With Most Water
 5. :white_check_mark: Trapping Rain Water
 
-### Stack |4/6 :white_check_mark:|
+### Stack |5/6 :white_check_mark:|
 
 1. :white_check_mark: Valid Parentheses
 2. :white_check_mark: Min Stack
 3. :white_check_mark: Evaluate Reverse Polish Notation
 4. :white_check_mark: Daily temperatures
+5. :white_check_mark: Car Fleet 
 
-**Total: 18 / 150 problems solved**
+**Total: 19 / 150 problems solved**
