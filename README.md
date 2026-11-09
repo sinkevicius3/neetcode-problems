@@ -37,4 +37,8 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 5. :white_check_mark: Car Fleet 
 6. :white_check_mark: Largest Rectangle In Histogram
 
-**Total: 20 / 150 problems solved**
+### Sliding Window |1/6 :white_check_mark:|
+
+1. :white_check_mark: Best Time to Buy and Sell Stock
+
+**Total: 21 / 150 problems solved**
