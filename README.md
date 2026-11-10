@@ -37,8 +37,9 @@ Currently working through **[NeetCode 150](https://neetcode.io/practice)**.
 5. :white_check_mark: Car Fleet 
 6. :white_check_mark: Largest Rectangle In Histogram
 
-### Sliding Window |1/6 :white_check_mark:|
+### Sliding Window |2/6 :white_check_mark:|
 
 1. :white_check_mark: Best Time to Buy and Sell Stock
+2. :white_check_mark: Longest Substring Without Repeating Characters
 
-**Total: 21 / 150 problems solved**
+**Total: 22 / 150 problems solved**
